@@ -1,0 +1,142 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Montagu Slab', serif;
+}
+.heading {
+    color:black;
+}
+.heading2 {
+    color:black;
+    font-family: 'Montagu Slab', serif;
+}
+.start {
+    display: flex;
+    justify-content: center;
+}
+
+.img1 {
+    height: 50%;
+    width: 50%;
+    border: solid 5px #00008b;
+}
+
+.img1style {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+}
+
+.q1 {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    color : #FF6103;
+    font-family: 'Montagu Slab', serif;
+}
+
+.q2 {
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    color : #FF6103;
+    font-family: 'Montagu Slab', serif;
+}
+
+.but {
+    display: flex;
+    justify-content: center;
+}
+
+.meredith {
+    height: 35%;
+    width: 35%;
+    border: solid 5px #FFFDD0;
+}
+
+.meredithstyle {
+    display: flex;
+    justify-content: center;
+}
+.derek {
+    height: 35%;
+    width: 35%;
+    border: solid 5px #FFFDD0;
+}
+
+.derekstyle {
+    display: flex;
+    justify-content: center;
+}
+.jackson {
+    height: 35%;
+    width: 35%;
+    border: solid 5px #FFFDD0;
+}
+
+.jacksonstyle {
+    display: flex;
+    justify-content: center;
+}
+.april {
+    height: 35%;
+    width: 35%;
+    border: solid 5px #FFFDD0;
+}
+
+.aprilstyle {
+    display: flex;
+    justify-content: center;
+}
+
+.headh {
+    color:#013220;
+    font-family: 'Montagu Slab', serif;
+}
+
+.headi {
+    color:#D10000;
+    font-family: 'Montagu Slab', serif;
+}
+
+.headb {
+    color:#421C52;
+    font-family: 'Montagu Slab', serif;
+    
+}
+
+.headt {
+    color:#4169e1;
+    font-family: 'Montagu Slab', serif;
+}
+.back {
+    height: 5%;
+    width: 5%;
+}
+.b1{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 110%;
+}
+.firste {
+    font-family: 'Patrick Hand', cursive;
+     font-size: 110%;
+}
+.reset {
+    display: flex;
+    justify-content: center;
+}
